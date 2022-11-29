@@ -1,0 +1,14 @@
+{
+  "name": "desafioentregable3",
+  "version": "1.0.0",
+  "description": "Tercer desafio entregable de curso de Back End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxi Lucero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
